@@ -1,1 +1,1 @@
-# cogworks-capstone
+# Cog*Lingo - cog*works capstone project
