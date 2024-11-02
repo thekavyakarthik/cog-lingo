@@ -1,1 +1,1 @@
-# Cog*Lingo - cog*works capstone project
+# Cog\*Lingo - cog\*works capstone project
